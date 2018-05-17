@@ -7,9 +7,6 @@ import static java.util.Objects.hash;
  */
 public class hash2 {
     static int M = 16;
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         char keys[] = {'E', 'A', 'S', 'Y', 'Q', 'U', 'T', 'I', 'O', 'N'};
         char conteudo[] = new char[M];
